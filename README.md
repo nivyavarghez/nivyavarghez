@@ -49,8 +49,8 @@ Hi! I'm Nivya, an aspiring software engineer who’s just getting started at **E
 
 - 📬 Email: **nivyavarghez@gmail.com** 
 - 🧠 GitHub: [nivyavarghez](https://github.com/nivyavarghez)
-- 💼 LinkedIn: *(add your link here)*
-- 📸 Pinterest: for all those creative moods *(optional)*
+- 💼 LinkedIn: (https://www.linkedin.com/in/nivyavarghez/)
+- 📸 Pinterest: for all those creative moods *(https://in.pinterest.com/nivyavarghez/)*
 
 ---
 
