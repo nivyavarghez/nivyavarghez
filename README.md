@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! I'm Nivya, an aspiring software engineer who’s just getting started at **EY GDS**! I’m a blend of curiosity, creativity, and ambition—passionate about both technology and the little artistic joys of life. I believe in learning with depth, staying true to myself, and finding meaning in every small detail.
+Hi! I'm Nivya Varghese, an aspiring software engineer who’s just getting started at **EY GDS**! I’m a blend of curiosity, creativity, and ambition—passionate about both technology and the little artistic joys of life. I believe in learning with depth, staying true to myself, and finding meaning in every small detail.
 
 ---
 
